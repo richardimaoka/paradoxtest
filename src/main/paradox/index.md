@@ -1,0 +1,1 @@
+@javadoc[Http](akka.http.javadsl.Http#shutdownAllConnectionPools--) 
